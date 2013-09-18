@@ -1,0 +1,69 @@
+------------------------Tue Sep 17 17:24:18 2013------------------------
+----- Start of basic test -----
+wrong! radio value is 10; test value is 12
+wrong! radio value is 10; test value is 18
+wrong! radio value is 21; test value is 22
+wrong! radio value is 23; test value is 24
+wrong! radio value is 24; test value is 25
+wrong! radio value is 25; test value is 26
+wrong! radio value is 26; test value is 27
+wrong! radio value is 27; test value is 28
+------------------------Tue Sep 17 17:24:53 2013------------------------
+----- Start of basic test -----
+------------------------Tue Sep 17 17:33:04 2013------------------------
+----- End of basic test -----
+
+wrong! radio value is 800; test value is 400
+wrong! radio value is 0; test value is NETWORK
+wrong! radio value is 1; test value is PHY
+------------------------Tue Sep 17 17:33:04 2013------------------------
+----- Start of advanced test -----
+------------------------Tue Sep 17 17:42:07 2013------------------------
+----- End of advanced test -----
+
+------------------------Tue Sep 17 17:42:07 2013------------------------
+----- Start of qos test -----
+------------------------Tue Sep 17 17:42:07 2013------------------------
+----- Start of serial test -----
+------------------------Tue Sep 17 17:45:15 2013------------------------
+----- End of serial test -----
+
+wrong! radio value is DQCONFIG: COULD NOT OPEN /PROC/NET/MWLAN/CTRL FOR RW; test value is DISABLE
+wrong! radio value is DQCONFIG: COULD NOT OPEN /PROC/NET/MWLAN/CTRL FOR RW; test value is ENABLE
+wrong! radio value is dqconfig: could not open /proc/net/mwlan/ctrl for rw; test value is 192.168.10.207
+wrong! radio value is dqconfig: could not open /proc/net/mwlan/ctrl for rw; test value is 5
+wrong! radio value is dqconfig: could not open /proc/net/mwlan/ctrl for rw; test value is 10
+------------------------Tue Sep 17 17:45:16 2013------------------------
+----- Start of diagnostics test -----
+------------------------Tue Sep 17 17:48:14 2013------------------------
+----- End of diagnostics test -----
+
+wrong! radio value is DQCONFIG: COULD NOT OPEN /PROC/NET/MWLAN/CTRL FOR RW; test value is 400
+wrong! radio value is DQCONFIG: COULD NOT OPEN /PROC/NET/MWLAN/CTRL FOR RW; test value is 400
+------------------------Tue Sep 17 17:56:04 2013------------------------
+----- Start of diagnostics test -----
+------------------------Tue Sep 17 17:58:23 2013------------------------
+----- End of diagnostics test -----
+
+wrong! max_speed
+radio value is 20; test value is 40
+------------------------Wed Sep 18 13:40:42 2013------------------------
+----- Start of advanced test -----
+------------------------Wed Sep 18 13:50:02 2013------------------------
+----- End of advanced test -----
+
+wrong! temp_reporting_min_threshold
+radio value is 75; test value is 70
+wrong! rssi_report_enable
+radio value is DQCONFIG: COULD NOT OPEN /PROC/NET/MWLAN/CTRL FOR RW; test value is DISABLE
+wrong! rssi_report_enable
+radio value is DQCONFIG: COULD NOT OPEN /PROC/NET/MWLAN/CTRL FOR RW; test value is ENABLE
+wrong! rssi_report_period
+radio value is dqconfig: could not open /proc/net/mwlan/ctrl for rw; test value is 5
+wrong! rssi_report_period
+radio value is dqconfig: could not open /proc/net/mwlan/ctrl for rw; test value is 10
+------------------------Wed Sep 18 13:50:02 2013------------------------
+----- Start of diagnostics test -----
+------------------------Wed Sep 18 13:53:16 2013------------------------
+----- End of diagnostics test -----
+
