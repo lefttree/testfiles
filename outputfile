@@ -67,3 +67,32 @@ radio value is dqconfig: could not open /proc/net/mwlan/ctrl for rw; test value 
 ------------------------Wed Sep 18 13:53:16 2013------------------------
 ----- End of diagnostics test -----
 
+------------------------Thu Sep 19 11:12:40 2013------------------------
+----- Start of Network-wide test -----
+------------------------Thu Sep 19 11:12:41 2013------------------------
+----- End of Network-wide test -----
+
+------------------------Thu Sep 19 11:12:52 2013------------------------
+----- Start of Network-wide test -----
+------------------------Thu Sep 19 11:15:57 2013------------------------
+----- Start of Network-wide test -----
+------------------------Thu Sep 19 11:17:43 2013------------------------
+----- Start of Network-wide test -----
+------------------------Thu Sep 19 11:19:12 2013------------------------
+----- Start of Network-wide test -----
+------------------------Thu Sep 19 11:20:24 2013------------------------
+----- Start of Network-wide test -----
+------------------------Thu Sep 19 11:21:16 2013------------------------
+----- Start of Network-wide test -----
+wrong! txpower
+radio value is 17; test value is 18
+wrong! txpower
+radio value is 21; test value is 22
+wrong! txpower
+radio value is 23; test value is 24
+wrong! txpower
+radio value is 24; test value is 25
+wrong! txpower
+radio value is 25; test value is 26
+wrong! txpower
+radio value is 26; test value is 27
