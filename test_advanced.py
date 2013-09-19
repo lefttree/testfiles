@@ -22,7 +22,6 @@ if __name__ == '__main__':
 	#
 	#test link distance
 	#
-	
 	distance_value = ["500"]
 	for distance in distance_value:
 		print "testing link_distance " + distance
@@ -109,7 +108,7 @@ if __name__ == '__main__':
 	mcs_options = ["Auto", "mcs0", "mcs1", "mcs2", "mcs3", "mcs4", "mcs8", "mcs9", "mcs10", "mcs11", "mcs12", "mcs16", "mcs17", "mcs18", "mcs19", "mcs20", "mcs24", "mcs25", "mcs26", "mcs27", "mcs28"]
 	for mcs in mcs_options:
 		print "testing mcs " + mcs
-		callString = "./select.py '" + ip + " " + browser + " webinterface2.sh enc_key " + mcs + "'"
+		callString = "./select.py '" + ip + " " + browser + " webinterface2.sh class0_mcs " + mcs + "'"
 		proc = subprocess.Popen(callString, shell=True)
 		proc.wait()
 	#

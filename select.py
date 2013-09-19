@@ -202,6 +202,9 @@ class BasicTab(unittest.TestCase):
 			rResult = "Enable"
 		else:
 			rResult = "Disable"
+	elif element == "class0_mcs":
+		if rResult == "255":
+			rResult = "Auto"
 	elif element == "parity":
 		if rResult == "0":
 			rResult = "Even"
